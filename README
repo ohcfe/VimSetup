@@ -1,1 +1,4 @@
-Hello World!
+Remember to create a symbolic link:
+ln -sv ~/.vimrc ~/.vim/vimrc
+
+assuming this README file is sitting in ~/.vim/
